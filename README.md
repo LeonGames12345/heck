@@ -1,14 +1,10 @@
 # Getting Archived as of 1/22/24.
 
-For more info, browse down.
-
-# Hell
+For more info, browse down
 
 Tired of games and searching being blocked?
 
-Then use Hell! With over 260+ unblocked games and even a working ultraviolet proxy, bypassing has never been so much easier. It has almost everything you would want in a game site! 
-
-# Why hell?
+Then use With over 260+ unblocked games and even a working ultraviolet proxy, bypassing has never been so much easier. It has almost everything you would want in a game site!
 
 - Over 260 games 
 - Easy to navigate
@@ -18,7 +14,7 @@ Then use Hell! With over 260+ unblocked games and even a working ultraviolet pro
 - Bookmarklets and Cheats
 - Dark background and simple looks 
 
-![site](https://github.com/D3ch/hell/assets/106717421/6977a3b1-82d6-4efc-a164-06324bf090a7)
+
 
 ## Links / Mirrors
 
